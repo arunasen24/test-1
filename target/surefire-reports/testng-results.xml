@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="45117" started-at="2016-03-10T02:05:21Z" finished-at="2016-03-10T02:06:06Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="45117" started-at="2016-03-10T02:05:21Z" finished-at="2016-03-10T02:06:06Z">
+      <class name="apptests.PageobjectTest">
+        <test-method status="PASS" signature="searchTest()[pri:0, instance:apptests.PageobjectTest@2c6a3f77]" name="searchTest" duration-ms="27238" started-at="2016-03-09T18:05:39Z" finished-at="2016-03-09T18:06:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+      </class> <!-- apptests.PageobjectTest -->
+      <class name="apptests.Pageobject1Test">
+        <test-method status="PASS" signature="searchTest1()[pri:0, instance:apptests.Pageobject1Test@735f7ae5]" name="searchTest1" duration-ms="17839" started-at="2016-03-09T18:05:21Z" finished-at="2016-03-09T18:05:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest1 -->
+      </class> <!-- apptests.Pageobject1Test -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

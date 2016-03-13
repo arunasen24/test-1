@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="50635" started-at="2016-03-08T09:07:53Z" finished-at="2016-03-08T09:08:43Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="50635" started-at="2016-03-08T09:07:53Z" finished-at="2016-03-08T09:08:43Z">
+      <class name="apptests.PageobjectTest">
+        <test-method status="PASS" signature="searchTest()[pri:0, instance:apptests.PageobjectTest@6debcae2]" name="searchTest" duration-ms="19253" started-at="2016-03-08T01:08:24Z" finished-at="2016-03-08T01:08:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+      </class> <!-- apptests.PageobjectTest -->
+      <class name="apptests.Pageobject1Test">
+        <test-method status="PASS" signature="searchTest1()[pri:0, instance:apptests.Pageobject1Test@66d33a]" name="searchTest1" duration-ms="31315" started-at="2016-03-08T01:07:53Z" finished-at="2016-03-08T01:08:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest1 -->
+      </class> <!-- apptests.Pageobject1Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
