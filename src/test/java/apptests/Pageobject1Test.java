@@ -14,6 +14,6 @@ public class Pageobject1Test {
 	  PageObjects po =new PageObjects(driver);
 	  po.search().sendKeys("orange");
 	  po.searchButton().click();
-	  System.out.println("searched orange");
+	  System.out.println("searched orangesss");
   }
 }
