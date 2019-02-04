@@ -12,8 +12,8 @@ public class Pageobject1Test {
 	  WebDriver driver = new FirefoxDriver();
 	  driver.get("http://www.google.com");
 	  PageObjects po =new PageObjects(driver);
-	  po.search().sendKeys("orange");
+	  po.search().sendKeys("banana");
 	  po.searchButton().click();
-	  System.out.println("searched orange");
+	  System.out.println("searched banana");
   }
 }
